@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![corogit's GitHub stats](https://github-readme-stats.vercel.app/api?username=corogit&show_icons=true&theme=dracula)
+![Corogit's GitHub stats](https://github-readme-stats.vercel.app/api?username=corogit&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corogit&layout=compact)](https://github.com/corogit/github-readme-stats)
